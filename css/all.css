@@ -17167,14 +17167,14 @@ readers do not read off random characters that represent icons */
 	--gi-style-family-brands: 'Google Icon 6 Brands';
 	--gi-font-brands: normal 400 1em/1 'Google Icon 6 Brands';
 }
-@font-face {
+/* @font-face {
 	font-family: "Font Awesome 6 Brands";
 	font-style: normal;
 	font-weight: 400;
 	font-display: block;
 	src: url(../webfonts/_pro-gi-brands-400-660.woff2) format("woff2"), url(../webfonts/_pro-gi-brands-400-660.ttf) format("truetype")
-}
-/* 
+} */
+
 @font-face {
 	font-family: 'Google Icon 6 Brands';
 	font-style: normal;
@@ -17227,7 +17227,7 @@ readers do not read off random characters that represent icons */
 	font-display: block;
 	src: url("../webfonts/pro-gi-brands-400-50c900.woff2") format("woff2"), url("../webfonts/pro-gi-brands-400-50c900.ttf") format("truetype");
 	unicode-range: U+20, U+F293;
-} */
+}
 
 .gib,
 .gi-brands {

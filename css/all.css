@@ -2,6 +2,7 @@
  * Google Icon 6.2.0 by @google - https://fonts.google.com/icons
  * License - https://policies.google.com/terms?hl=en
  * Copyright 2022 Google, Inc.
+ * Google-Git from Jenny Won
  */
 
 .gi {
@@ -17166,6 +17167,7 @@ readers do not read off random characters that represent icons */
 	--gi-style-family-brands: 'Google Icon 6 Brands';
 	--gi-font-brands: normal 400 1em/1 'Google Icon 6 Brands';
 }
+
 
 @font-face {
 	font-family: 'Google Icon 6 Brands';
